@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "transparent_snow_photostrip_background.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

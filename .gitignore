@@ -1,0 +1,25 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcscmblueprint
+*.xcuserdatad/
+
+# Personal user data (scheme/user settings)
+xcuserdata/
+
+# Archives
+*.xcarchive
+
+# Temporary files
+*.swp
+*.lock
+*.tmp
+*.DS_Store
+
+# Symbolicate crash logs
+*.dSYM.zip
+*.dSYM
